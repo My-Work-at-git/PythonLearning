@@ -6,3 +6,5 @@ name = "Alice"
 
 Data Types:
 - int, float, str, list, dict
+
+Primitive Data Types:
